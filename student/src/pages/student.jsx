@@ -48,7 +48,6 @@ console.log(selectedData,"select")
   };
 
   const handleEdit = (student) => {
-    // localStorage.setItem(student); // Set the student to be edited
     handleOpenDialog(student); // Open the dialog box
   };
 
